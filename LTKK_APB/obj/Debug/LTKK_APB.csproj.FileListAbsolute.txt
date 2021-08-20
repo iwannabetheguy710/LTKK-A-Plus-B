@@ -1,0 +1,10 @@
+C:\LTKK_APB\LTKK_APB\bin\Debug\LTKK_APB.exe.config
+C:\LTKK_APB\LTKK_APB\bin\Debug\LTKK_APB.exe
+C:\LTKK_APB\LTKK_APB\bin\Debug\LTKK_APB.pdb
+C:\LTKK_APB\LTKK_APB\obj\Debug\LTKK_APB.csproj.AssemblyReference.cache
+C:\LTKK_APB\LTKK_APB\obj\Debug\LTKK_APB.frm1.resources
+C:\LTKK_APB\LTKK_APB\obj\Debug\LTKK_APB.Properties.Resources.resources
+C:\LTKK_APB\LTKK_APB\obj\Debug\LTKK_APB.csproj.GenerateResource.cache
+C:\LTKK_APB\LTKK_APB\obj\Debug\LTKK_APB.csproj.CoreCompileInputs.cache
+C:\LTKK_APB\LTKK_APB\obj\Debug\LTKK_APB.exe
+C:\LTKK_APB\LTKK_APB\obj\Debug\LTKK_APB.pdb
